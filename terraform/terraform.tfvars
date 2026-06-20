@@ -12,7 +12,7 @@ resource_group_name = "rg-utpdavid2026-user9-cc"
 location            = "eastus2"
 
 ##### Variables - Storage Account RAC #####
-storage_account_name  = "stg-sofia"
+storage_account_name  = "stg-sofiaryf"
 container_name        = "sofia"
 container_access_type = "private" #
 
